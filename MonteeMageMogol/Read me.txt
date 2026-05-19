@@ -1,4 +1,0 @@
-Required Addons: 
-LoreBooks -> https://www.esoui.com/downloads/info288-LoreBooks.html
-LibMapPins -> https://www.esoui.com/downloads/info1881-LibMapPins-1.0.html
-LibAddonMenu -> https://www.esoui.com/downloads/info7-LibAddonMenu.html

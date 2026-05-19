@@ -1,5 +1,0 @@
-## Title: Montee Mage Mogol
-## APIVersion: 101047
-## DependsOn: LoreBooks LibAddonMenu-2.0 LibMapPins-1.0
-
-MonteeMageMogol.lua
