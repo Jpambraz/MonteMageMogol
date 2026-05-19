@@ -32,6 +32,9 @@ Extract the addon folder into:
 
 Documents/Elder Scrolls Online/live/AddOns/
 
+## I have not tested other functions yet, but this configuration works for me.
+<img width="673" height="786" alt="image" src="https://github.com/user-attachments/assets/1758649f-233c-4634-818a-fcc0b7f9eef1" />
+
 ## Credits
 
 Created by João Pedro Amaral./Montee/jp.ambraz (many usernames same person)
