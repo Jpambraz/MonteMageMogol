@@ -22,9 +22,11 @@ This keeps the map cleaner and focused for Mages Guild progression and lorebook 
 
 Required addons/libraries:
 
-* LoreBooks
-* LibMapPins-1.0
-* LibAddonMenu-2.0
+[LoreBooks](https://www.esoui.com/downloads/info288-LoreBooks.html)
+
+[LibMapPins-1.0](https://www.esoui.com/downloads/info1881-LibMapPins-1.0.html)
+
+[LibAddonMenu-2.0](https://www.esoui.com/downloads/info7-LibAddonMenu.html)
 
 ## Installation
 
